@@ -21,7 +21,7 @@ namespace ESAPIScriptTemplate
         const string PROTON_MACHINE = "Probeam"; //Needs to be yours
         const string TOLERANCE_TABLE = "PROTONS"; //Needs to be yours
         const string SNOUT_ID = "S1"; //Needs to be yours
-        const string RANGE_SHIFTER = "RS57mm"; //Needs to be yours
+        const string RANGE_SHIFTER = "RS34mm"; //Needs to be yours
 
         static ConsoleUI _ui = new ConsoleUI();
         static bool _requestExit = false;
