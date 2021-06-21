@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ESAPIX_16.1" Version="1.6.7842.231" />
+    <PackageReference Include="ESAPIX_16.1" Version="1.6.7842.263" />
   </ItemGroup>
 
   <ItemGroup>
